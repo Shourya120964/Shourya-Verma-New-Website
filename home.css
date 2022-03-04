@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    align-items: center;
+    
+}
+div{
+    display: flex;
+    align-items: center;
+
+}
+.item1{
+    size: 120px;
+     
+ }
