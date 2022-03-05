@@ -10,5 +10,16 @@ div{
 }
 
 #Citywallpaper{
-    width: 200px;
+    width: 230px;
  }
+
+ .search-box{
+     position: absolute;
+     align-items: left;
+     left: 85%;
+    border-radius: 40px;
+    height: 40px;
+    background: radial-gradient(black, transparent);
+    bottom: 91%;
+
+}
