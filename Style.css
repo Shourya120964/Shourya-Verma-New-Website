@@ -104,3 +104,14 @@
 li{
     list-style-type: none;
 }
+
+.btn{
+    padding: 6px 20px;
+    border: 2px solid white;
+    color: white;
+    background-color: brown;
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 20px;
+    cursor: pointer;
+}
